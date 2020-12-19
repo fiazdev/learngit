@@ -11,6 +11,8 @@ touch filename		create a new file. touch is linux command
 touch .gitignore	create a new file. open that file and add the file
 			name which you want to ignor (not tracked).
 git diff		compare two files.
+git status
+git commit -a -m "commit" add and commit same time
 -----------------------------------------------------------------------
 * Open .gitignore file and write *.log. It will ignore all file then end with extention .log
 * open .gitignore file and write dir/ It will ignore directory and its file as well.
