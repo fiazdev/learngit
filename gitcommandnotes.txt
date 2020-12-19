@@ -5,5 +5,7 @@ git status 	-	used to check the status
 git add --a	- 	add all files in git
 git add filename-	add specific file in git
 git log		- 	 to check the status of history
-git commit -m "msg"	commit the file
+git commit -m "msg"	commit the file.
+rm -rf .git		delete the git command. (Dangerous command)
+
 
