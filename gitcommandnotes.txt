@@ -1,0 +1,9 @@
+Open the bash command by clicking right click from mouse and select bash command.
+------------------------------------------
+git init	-	Initialized the directory
+git status 	-	used to check the status
+git add --a	- 	add all files in git
+git add filename-	add specific file in git
+git log		- 	 to check the status of history
+git commit -m "msg"	?
+
